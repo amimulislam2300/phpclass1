@@ -1,0 +1,12 @@
+<?php
+include('../module/header.php')
+?>
+<?php
+require_once('../module/content.php')
+?>
+<?php
+require('../module/content.php')
+?>
+<?php
+include('../module/footer.php')
+?>
